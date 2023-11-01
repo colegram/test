@@ -1,0 +1,26 @@
+{
+  "name": "swup-page-transition-and-img-hover-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@swup/body-class-plugin": "1.0.2",
+    "@swup/js-plugin": "1.0.5",
+    "gsap": "3.11.4",
+    "parcel": "2.8.2",
+    "sass": "1.57.1",
+    "swup": "2.0.19"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
